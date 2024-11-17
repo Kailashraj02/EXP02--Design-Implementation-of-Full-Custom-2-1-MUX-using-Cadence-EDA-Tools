@@ -64,7 +64,8 @@ ii)	Create Schematic Cell view.
 	+ Make the connections by using fixed narrow wire key
 	+ Click Check and Save button
 
-![11](https://github.com/user-attachments/assets/193a3940-3afe-46f9-ba35-133615136171)
+![Screenshot 2024-10-21 192151](https://github.com/user-attachments/assets/6959d978-978c-4f85-98d7-bf096ad0194d)
+
 
 	
  
@@ -82,7 +83,8 @@ iii)	Creating the Symbol for schematic Cell view
 - Check for the position of pin side.Prss OK
 - Edit for the shape by Create-Shape-Choose required options to edit.
 
-![12](https://github.com/user-attachments/assets/7e61b81d-386a-40f8-9f95-1723ad90d173)
+![Screenshot 2024-10-21 192145](https://github.com/user-attachments/assets/4edc8932-5c3a-4bf8-afa2-12bab76df2b1)
+
  
 iv)	Creating the new test cell view
 
@@ -94,7 +96,8 @@ iv)	Creating the new test cell view
 	+ Type: Schematic press OK
 - Follow the step 3(ii) d to make the required connections
 
-![13](https://github.com/user-attachments/assets/f85b55fe-aa14-4593-adb5-4959a5aaddb2)
+![Screenshot 2024-10-21 194553](https://github.com/user-attachments/assets/eaa5b92d-5478-4fd4-99a8-9130cdbc8d24)
+
 
 ### Analog simulation by SPECTRE.
 
@@ -108,14 +111,16 @@ iv)	Creating the new test cell view
 	+ Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 - Execute Simulation -- Net list and Run
 
-![14](https://github.com/user-attachments/assets/35729903-1be7-468c-925b-47cedf276394)
+![Screenshot 2024-10-23 093534](https://github.com/user-attachments/assets/1dd6263a-8fa1-4f01-ac69-00332a11f461)
+
 
 ### For Transient Analysis Settings and Output
 
-![15](https://github.com/user-attachments/assets/6b7d505e-ca59-45fc-8ce1-1cf23d952bd2)
+![Screenshot 2024-10-23 135557](https://github.com/user-attachments/assets/69f8f06b-15ee-42df-88af-2a00c89bf885)
 
 
-![16](https://github.com/user-attachments/assets/4cdd1104-7c24-45ed-9c63-c467666b2d4a)
+![Screenshot 2024-10-23 093027](https://github.com/user-attachments/assets/ace26c45-63c4-49dd-873a-a7f74ef241cf)
+
 
 ### Results:
 
